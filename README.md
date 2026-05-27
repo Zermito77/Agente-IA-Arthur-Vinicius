@@ -1,5 +1,8 @@
 README - Projeto do Agente de IA - Passo a Passo
 
+-Baixar o arquivo .rar
+Descompacte o arquivo e abra no VSCode
+
 -Instalar dependências:
 Na pasta principal Aula_Agente_IA-main execute:
 npm install
