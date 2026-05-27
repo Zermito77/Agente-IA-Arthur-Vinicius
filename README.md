@@ -10,8 +10,8 @@ node server.js
 
 -Iniciar o frontend
 Abra outro terminal, entre na pasta agente e execute:
-cd agente
-npm install
+cd agente >
+npm install >
 npm run dev
 
 -Executar os testes
